@@ -39,3 +39,8 @@ Across nearly every dimension tested (post type, age, verification, sentiment, d
 
 # Conclusion
 This project demonstrates how data analytics can optimize social media strategies. By focusing on high-performing content types, audience segments, engagement can be significantly improved.
+
+# Author
+Aiswarya R Nair
+
+Power BI | Data Analytics | Business Intelligence
